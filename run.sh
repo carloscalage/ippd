@@ -4,4 +4,4 @@ echo "Compiling $1"
 
 echo "Executing $2"
 
-./$2
+./$2 $3
